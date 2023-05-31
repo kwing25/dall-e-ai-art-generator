@@ -1,8 +1,12 @@
 # Dall-E 2 AI Art Generator
 
+> *Uses ☞ [Vercel Next.js Starter](https://vercel.com/templates/next.js/dall-e)*
+
 This project will generate images from text using AI and uses QStash to manage serverless function timeouts.
 
-![OG Image](/public/ogimage.png)
+![demo](https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F3ulf3cJhGCjsBEoALnQd6c%2Fde6a1bddc1eae9422d73e285cd879a6e%2FCleanShot_2022-12-09_at_09.28.09.png&w=2048&q=75 "demo")
+
+<!-- ![OG Image](/public/ogimage.png) -->
 
 ## How it works
 
